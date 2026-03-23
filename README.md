@@ -1,6 +1,9 @@
 👋 Hi, I'm Alyssa (AM)
 
-💻 Web Developer | 🚀 Building apps that solves real-world problems
+💻 Web Developer | 🚀 Building apps that solves real-world problems. 
+
+I focused on turning my ideas into a working system and I like exploring and learning new things to make more innovations.
+
 ## 🚀 Tech Stack
 
 ### 🎨 Frontend
@@ -9,6 +12,8 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge\&logo=jquery\&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ---
 
@@ -45,20 +50,3 @@
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 
-
-
-
-📊 GitHub Stats
-
-
-
-
-
-
-
-✨ About Me
-
-I build clean, functional, and user-friendly web applications.
-Focused on real-world systems, UI/UX, and scalable backend logic.
-
-💡 Always learning. Always building.
