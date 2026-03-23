@@ -1,9 +1,6 @@
 👋 Hi, I'm Alyssa (AM)
 
 💻 Web Developer | 🚀 Building apps that solves real-world problems
-
-💻 Tech Stack that I use
-
 ## 🚀 Tech Stack
 
 ### 🎨 Frontend
